@@ -16,4 +16,5 @@ int main() {
 	else if(myrand == 10) {
 		printf("Larn is the best roguelike\n");
 	}
+	printf("The random number was: %d\n", myrand);
 }
